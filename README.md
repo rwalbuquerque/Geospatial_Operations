@@ -1,6 +1,6 @@
 # Geospatial_Operations_Python
 
-I used some of these python notebooks im my academic paper that assesses biodiversity indicators and species recognition on images acquired by drones: https://www.mdpi.com/2072-4292/14/4/830
+I used some of these python notebooks in my academic paper that assesses biodiversity indicators and species recognition on images acquired by drones: https://www.mdpi.com/2072-4292/14/4/830
 
 Analises_Resultados_Retauracao.ipynb is a backup to extract some properties of geospatial matrices and vector data.
 
