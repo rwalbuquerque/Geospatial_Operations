@@ -1,4 +1,4 @@
-# Geospatial_Operations_Python
+# Geospatial_Operations
 
 I used some of these python notebooks in my academic paper that assesses biodiversity indicators and species recognition on images acquired by drones: https://www.mdpi.com/2072-4292/14/4/830
 
